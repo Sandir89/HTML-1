@@ -1,0 +1,15 @@
+/Users/aleksandr/Desktop/252729/bin/Debug/net6.0/252729
+/Users/aleksandr/Desktop/252729/bin/Debug/net6.0/252729.deps.json
+/Users/aleksandr/Desktop/252729/bin/Debug/net6.0/252729.runtimeconfig.json
+/Users/aleksandr/Desktop/252729/bin/Debug/net6.0/252729.dll
+/Users/aleksandr/Desktop/252729/bin/Debug/net6.0/252729.pdb
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.AssemblyInfo.cs
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.dll
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/refint/252729.dll
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.pdb
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/252729.genruntimeconfig.cache
+/Users/aleksandr/Desktop/252729/obj/Debug/net6.0/ref/252729.dll
