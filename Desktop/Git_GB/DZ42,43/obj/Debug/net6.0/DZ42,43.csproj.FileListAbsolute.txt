@@ -1,0 +1,15 @@
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/bin/Debug/net6.0/DZ42,43
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/bin/Debug/net6.0/DZ42,43.deps.json
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/bin/Debug/net6.0/DZ42,43.runtimeconfig.json
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/bin/Debug/net6.0/DZ42,43.dll
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/bin/Debug/net6.0/DZ42,43.pdb
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.AssemblyInfo.cs
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.dll
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/refint/DZ42,43.dll
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.pdb
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/DZ42,43.genruntimeconfig.cache
+/Users/aleksandr/Desktop/Git_GB/DZ42,43/obj/Debug/net6.0/ref/DZ42,43.dll
