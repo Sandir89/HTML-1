@@ -1,0 +1,15 @@
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /bin/Debug/net6.0/54, 56, 58, 60, 62
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /bin/Debug/net6.0/54, 56, 58, 60, 62.deps.json
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /bin/Debug/net6.0/54, 56, 58, 60, 62.runtimeconfig.json
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /bin/Debug/net6.0/54, 56, 58, 60, 62.dll
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /bin/Debug/net6.0/54, 56, 58, 60, 62.pdb
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.AssemblyInfo.cs
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.dll
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/refint/54, 56, 58, 60, 62.dll
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.pdb
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/54, 56, 58, 60, 62.genruntimeconfig.cache
+/Users/aleksandr/Desktop/Git_GB/54, 56, 58, 60, 62 /obj/Debug/net6.0/ref/54, 56, 58, 60, 62.dll
