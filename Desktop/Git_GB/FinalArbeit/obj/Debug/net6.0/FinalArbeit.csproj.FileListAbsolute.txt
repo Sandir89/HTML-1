@@ -1,0 +1,15 @@
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/bin/Debug/net6.0/FinalArbeit
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/bin/Debug/net6.0/FinalArbeit.deps.json
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/bin/Debug/net6.0/FinalArbeit.runtimeconfig.json
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/bin/Debug/net6.0/FinalArbeit.dll
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/bin/Debug/net6.0/FinalArbeit.pdb
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.AssemblyInfo.cs
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.dll
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/refint/FinalArbeit.dll
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.pdb
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/FinalArbeit.genruntimeconfig.cache
+/Users/aleksandr/Desktop/Git_GB/FinalArbeit/obj/Debug/net6.0/ref/FinalArbeit.dll
